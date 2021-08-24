@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(3, 32, 84);
+}
+.title {
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+.container {
+  margin: 20px;
+  padding: 10px;
+  width: 50%;
+  height: 100hv;
+  background-color: rgb(10, 45, 110);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25vh;
+  border-radius: 40px;
+}
+.blok {
+  margin: 20px;
+  padding: 20px;
+}
+#line {
+  color: whitesmoke;
+  padding: 10px;
+}
+.submit {
+  padding: 10px;
+  margin: 10px;
+}
+button {
+  height: 30px;
+  width: 90px;
+  background-color: rgb(202, 21, 21);
+  color: aliceblue;
+}
+button:hover {
+  color: rgb(202, 21, 21);
+  background-color: rgb(10, 45, 110);
+  cursor: pointer;
+}
